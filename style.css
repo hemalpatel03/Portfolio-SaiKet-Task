@@ -1,0 +1,18 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  #home {
+    background: linear-gradient(135deg, #74ebd5, #9face6);
+    color: #fff;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  .card-img-top {
+    height: 250px;
+    object-fit: cover;
+  }
+  
